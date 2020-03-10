@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+    color: chocolate;
+}
+
+#Zoria{
+    size: 500px;
+    color: #000;
+}
+
+#icatu_img{
+    display: flex;
+    flex-direction: center;
+    justify-content: space-evenly;
+}
+
+
+
